@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 48,
+    "pack_format": 57,
     "description": "Allows redstone components to be crafted with deepslate"
   }
 }

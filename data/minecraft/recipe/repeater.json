@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:redstone_torch"
-    },
-    "I": {
-      "tag": "electr0n:smelted_stone_materials"
-    },
-    "X": {
-      "item": "minecraft:redstone"
-    }
+    "#": "minecraft:redstone_torch",
+    "I": "#electr0n:smelted_stone_materials",
+    "X": "minecraft:redstone"
   },
   "pattern": [
     "#X#",
